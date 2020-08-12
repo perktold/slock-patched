@@ -2,6 +2,9 @@ slock - simple screen locker
 ============================
 simple screen locker utility for X.
 
+Patches
+-------
+I added the pixelated screen, keypress feedback and message patches
 
 Requirements
 ------------
